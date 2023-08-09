@@ -16,3 +16,4 @@ dependencies:
   - shapely>=2
   - rtree
   - tqdm
+  - mapbox_earcut

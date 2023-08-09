@@ -13,6 +13,8 @@ from .preprocessing import *
 from .shape import *
 from .utils import *
 from .weights import *
+from .shape_3d import *
+from .utils_3d import *
 
 __author__ = "Martin Fleischmann"
 __author_email__ = "martin@martinfleischmann.net"

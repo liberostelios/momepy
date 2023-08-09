@@ -3,7 +3,7 @@ from pathlib import Path
 __all__ = ["available", "get_path"]
 
 _module_path = Path(__file__).resolve().parent
-available = ["bubenec", "tests"]
+available = ["3dbag", "bubenec", "tests"]
 
 
 def get_path(dataset):
